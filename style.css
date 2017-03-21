@@ -17,6 +17,6 @@
 }
 
 .navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav> .navbar-inverse .navbar-nav>a:hover {
-     /*color: #fff; */
+     color: #fff; 
      background-color:#31434c !important ; 
 }
